@@ -3,10 +3,10 @@
 
 ## 👨‍💻 About Me
 🎓 **Software Engineering Student @ Universiti Malaya (CGPA 3.79)**  
-💡 Passionate about **Generative AI**, **Full-Stack Web Development**, and **IoT Systems**  
+💡 Passionate about **Generative AI**, **Full-Stack Web Development**, and **Cloud Computing**  
 🚀 Building smart, AI-driven, and scalable products that create real-world impact.  
 
-🌱 Currently learning **Next.js**, **LangChain**, and **AWS Cloud Architecture**  
+🌱 Currently learning **MLOps**, **ArcGIS GeoLocation**, and **AWS Cloud Architecture**  
 🧭 Leading as **Local Committee President @ AIESEC in UM (2024–2025)**  
 🏆 Recent wins: Silver @ IFEST 2025 | 1st Runner-Up @ UMHackathon 2025  
 
