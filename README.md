@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff)
-![C#](https://img.shields.io/badge/C#-00599C?logo=cplusplus&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 
 **Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
