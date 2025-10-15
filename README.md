@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I%27m%20Lee%20Ing%20Zhen%20👋&fontSize=35&fontAlignY=35&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer%20%7C%20IoT%20Innovator)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I%20m%20Lee%20Ing%20Zhen%20👋&fontSize=35&fontAlignY=35&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer%20%7C%20IoT%20Innovator)
 
 ## 👨‍💻 About Me
 🎓 **Software Engineering Student @ Universiti Malaya (CGPA 3.79)**  
