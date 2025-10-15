@@ -1,5 +1,14 @@
-<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=200&amp;section=header&amp;text=Hi%20I'm%20Lee%20Ing%20Zhen%20👋&amp;fontSize=35&amp;fontAlignY=35&amp;fontColor=ffffff&amp;desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer%20%7C%20IoT%20Innovator)
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Lee%20Ing%20Zhen%20👋&fontSize=35&fontAlignY=35&fontColor=ffffff&desc=Software%20Engineer%20|%20AI%20%26%20Full-Stack%20Developer%20|%20IoT%20Innovator" alt="Header" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/LeeIngZhen">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=480&lines=Passionate+about+AI+and+Full-Stack+Development;Building+Innovative+IoT+and+Blockchain+Solutions;Always+learning%2C+always+improving!" alt="Typing SVG" />
+  </a>
+</p>
+
 
 ## 👨‍💻 About Me
 🎓 **Software Engineering Student @ Universiti Malaya (CGPA 3.79)**  
