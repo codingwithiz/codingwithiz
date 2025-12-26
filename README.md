@@ -7,7 +7,7 @@
 
 🌱 Currently learning **MLOps**, **ArcGIS GeoLocation**, and **AWS Cloud Architecture**  
 🧭 Leading as **Local Committee President @ AIESEC in UM (2024–2025)**  
-🏆 Recent wins: Silver @ IFEST 2025 | 1st Runner-Up @ UMHackathon 2025  
+🏆 Recent wins: Champion @ EY YTPC 2025 | Silver @ IFEST 2025 | 1st Runner-Up @ UMHackathon 2025  
 
 ---
 
