@@ -1,9 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I%27m%20Lee%20Ing%20Zhen%20👋&fontSize=35&fontColor=ffffff)
 
 ## 👨‍💻 About Me
-🎓 **Software Engineering Student @ Universiti Malaya (CGPA 3.79)** 💡 Passionate about **Generative AI**, **Full-Stack Web Development**, and **Cloud Computing** 🚀 Building smart, AI-driven, and scalable products that create real-world impact.  
+🎓 **First Class Software Engineering Graduate @ Universiti Malaya (CGPA 3.81)** 
+💡 Passionate about **Software Engineering**, **AI Engineering**, and **Machine Learning** 
+🚀 Building smart, AI-driven, and scalable products that create real-world impact.  
 
-🌱 Currently learning **MLOps**, **ArcGIS GeoLocation**, and **AWS Cloud Architecture** 🧭 Leading as **Local Committee President @ AIESEC in UM (2024–2025)** 🏆 Recent wins: Grand Winner @ APAC 2026 | Champion @ EY YTPC 2025 | Silver @ IFEST 2025 | 1st Runner-Up @ UMHackathon 2025  
+🌱 Currently learning **Agentic AI Systems**, **Machine Learning Engineering**, and **AWS Cloud Architecture**
+🏆 Recent wins: Grand Winner @ APAC 2026 | Champion @ EY YTPC 2025 | Silver @ IFEST 2025 | 1st Runner-Up @ UMHackathon 2025
 
 ---
 
@@ -32,13 +35,15 @@
 
 ### 🕌 [AmanahBlock](https://github.com/szeyu/AmanahBlock)
 A **Shariah-compliant blockchain donation platform** integrating **GenAI**, DAO voting, and halal DeFi.  
-> 🏆 *1st Runner-Up – UMHackathon 2025* Tech: React · Solidity · OpenAI API · Firebase · IPFS  
+> 🏆 *1st Runner-Up – UMHackathon 2025* 
+Tech: React · Solidity · OpenAI API · Firebase · IPFS  
 
 ---
 
 ### 🌍 [NiagaMap (AI-Driven GIS)](https://github.com/codingwithiz/NiagaMap)
 Dynamic GIS system that uses **GenAI and rule-based modeling** to generate business location suitability maps.  
-> 🏆 *Grand Winner (Software Engineering) – APAC 2026* | 🥈 *Silver Award – IFEST 2025 (Science & Tech)* Tech: Vite · JavaScript · Node.js · ArcGIS · OpenAI · Supabase · Firebase 
+> 🏆 *Grand Winner (Software Engineering) – APAC 2026* | 🥈 *Silver Award – IFEST 2025 (Science & Tech)* 
+Tech: Vite · JavaScript · Node.js · ArcGIS · OpenAI · Supabase · Firebase 
 
 ---
 
