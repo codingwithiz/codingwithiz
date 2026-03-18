@@ -1,33 +1,26 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I%27m%20Lee%20Ing%20Zhen%20👋&fontSize=35&fontColor=ffffff)
 
 ## 👨‍💻 About Me
-🎓 **Software Engineering Student @ Universiti Malaya (CGPA 3.79)**  
-💡 Passionate about **Generative AI**, **Full-Stack Web Development**, and **Cloud Computing**  
-🚀 Building smart, AI-driven, and scalable products that create real-world impact.  
+🎓 **Software Engineering Student @ Universiti Malaya (CGPA 3.79)** 💡 Passionate about **Generative AI**, **Full-Stack Web Development**, and **Cloud Computing** 🚀 Building smart, AI-driven, and scalable products that create real-world impact.  
 
-🌱 Currently learning **MLOps**, **ArcGIS GeoLocation**, and **AWS Cloud Architecture**  
-🧭 Leading as **Local Committee President @ AIESEC in UM (2024–2025)**  
-🏆 Recent wins: Champion @ EY YTPC 2025 | Silver @ IFEST 2025 | 1st Runner-Up @ UMHackathon 2025  
+🌱 Currently learning **MLOps**, **ArcGIS GeoLocation**, and **AWS Cloud Architecture** 🧭 Leading as **Local Committee President @ AIESEC in UM (2024–2025)** 🏆 Recent wins: Grand Winner @ APAC 2026 | Champion @ EY YTPC 2025 | Silver @ IFEST 2025 | 1st Runner-Up @ UMHackathon 2025  
 
 ---
 
 ## 🧠 Tech Stack
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+**Languages:** ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+**Frameworks & Tools:** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
-**Platforms & Others:**  
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=firebase)
+**Platforms & Others:** ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-007ACC?logo=esri&logoColor=white)
@@ -39,15 +32,13 @@
 
 ### 🕌 [AmanahBlock](https://github.com/szeyu/AmanahBlock)
 A **Shariah-compliant blockchain donation platform** integrating **GenAI**, DAO voting, and halal DeFi.  
-> 🏆 *1st Runner-Up – UMHackathon 2025*  
-Tech: React · Solidity · OpenAI API · Firebase · IPFS  
+> 🏆 *1st Runner-Up – UMHackathon 2025* Tech: React · Solidity · OpenAI API · Firebase · IPFS  
 
 ---
 
 ### 🌍 [NiagaMap (AI-Driven GIS)](https://github.com/codingwithiz/NiagaMap)
 Dynamic GIS system that uses **GenAI and rule-based modeling** to generate business location suitability maps.  
-> 🥈 *Silver Award – IFEST 2025 (Science & Tech)*  
-Tech: Vite · JavaScript · Node.js · ArcGIS · OpenAI · MSSQL  
+> 🏆 *Grand Winner (Software Engineering) – APAC 2026* | 🥈 *Silver Award – IFEST 2025 (Science & Tech)* Tech: Vite · JavaScript · Node.js · ArcGIS · OpenAI · Supabase · Firebase 
 
 ---
 
