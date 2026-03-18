@@ -9,7 +9,7 @@
 
 🌱 Currently learning **Agentic AI Systems**, **Machine Learning Engineering**, and **AWS Cloud Architecture**
 <br>
-🏆 Recent wins: Grand Winner @ APAC 2026 | Champion @ EY YTPC 2025 | Silver @ IFEST 2025 | 1st Runner-Up @ UMHackathon 2025
+🏆 Recent wins: Grand Winner @ APAC 2026 | Champion @ EY YTPC 2025 | Silver @ IFEST 2025 | 1st Runner-Up @ UMHack 2025
 
 ---
 
@@ -46,7 +46,7 @@ Tech: React · Solidity · OpenAI API · Firebase · IPFS
 ### 🌍 [NiagaMap (AI-Driven GIS)](https://github.com/codingwithiz/NiagaMap)
 Dynamic GIS system that uses **GenAI and rule-based modeling** to generate business location suitability maps.  
 > 🏆 *Grand Winner (Software Engineering) – APAC 2026* | 🥈 *Silver Award – IFEST 2025 (Science & Tech)*
-> > 🌐 Live demo: [niagamap.vercel.app](https://niagamap.vercel.app/)  
+> 🌐 Live demo: [niagamap.vercel.app](https://niagamap.vercel.app/)  
 Tech: Vite · JavaScript · Node.js · ArcGIS · OpenAI · Supabase · Firebase 
 
 ---
