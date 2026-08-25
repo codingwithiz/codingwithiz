@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I%27m%20Lee%20Ing%20Zhen%20👋&fontSize=35&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I%27m%20Ing%20Zhen%20👋&fontSize=35&fontColor=ffffff)
 
 ## 👨‍💻 About Me
 🎓 **First Class Software Engineering Graduate @ Universiti Malaya (CGPA 3.81)** 
